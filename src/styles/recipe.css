@@ -1,0 +1,7 @@
+#recipeImg {
+  cursor: auto;
+}
+
+#mainHeader:after {
+  border-bottom: none;
+}
