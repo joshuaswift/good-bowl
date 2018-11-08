@@ -75,9 +75,7 @@ class RecipeListContainer extends Component {
       );
   }
 
-  componentDidMount() {
-    //this.getJSON();
-  }
+ 
 
   render() {
     let recipeData = this.state.recipeData;
