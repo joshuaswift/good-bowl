@@ -4,13 +4,22 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "acorn": ">=5.7.4",
     "babel-preset-react": "^6.24.1",
+    "dot-prop": ">=5.1.1",
+    "elliptic": ">=6.5.3",
     "express": "^4.16.3",
-    "npm": "^6.14.6",
+    "kind-of": ">=6.0.3",
     "lodash": ">=4.17.19",
+    "minimist": ">=1.2.3",
+    "mixin-deep": ">=1.3.2",
+    "npm": "^6.14.6",
     "react": "^16.4.1",
     "react-dom": ">=16.4.2",
     "react-router-dom": "^4.3.1",
+    "safer-eval": ">=1.3.4",
+    "serialize-to-js": ">=3.0.1",
+    "set-value": ">=2.0.1",
     "src": "^1.1.2"
   },
   "devDependencies": {
